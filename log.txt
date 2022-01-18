@@ -1,0 +1,33 @@
+life count 3
+_ _ _ _ _
+Input char i
+life count 2
+_ _ _ _ _
+Input char w
+life count 2
+w _ _ _ _
+Input char a
+life count 1
+w _ _ _ _
+Input char b
+You lose
+life count 3
+_ _ _ _
+Input char c
+life count 2
+_ _ _ _
+Input char d
+life count 2
+_ _ _ d
+Input char e
+life count 1
+_ _ _ d
+Input char f
+You lose
+life count 3
+_ _ _ _ _
+Input char g
+закончились буквы
+закончились буквы
+закончились буквы
+закончились буквы

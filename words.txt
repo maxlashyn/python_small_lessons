@@ -1,0 +1,6 @@
+world
+word
+table
+cap
+glass
+mouse
